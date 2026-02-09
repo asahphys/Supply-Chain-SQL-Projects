@@ -1,2 +1,1 @@
-# supply-chain-sql-analysis
-SQL case study analyzing Richard’s Supply database, covering customer orders, product demand, supplier competition, country-based customer–supplier relationships, and UK supply dependency.
+This project is an SQL-based supply chain analysis using the Richard’s Supply database, which contains two years of customer orders, products, and supplier data. The analysis covers data extraction and constraints, product demand evaluation, discount and savings analysis, customer–supplier relationships by country, competitor identification, and an assessment of products for which the UK is dependent on foreign suppliers, following the requirements defined in the Supply Chain SQL case study.
